@@ -14,7 +14,7 @@ This is my personal notebook for learning the **R programming language**. As I e
 
 ---
 
-## # 📓 سرفصلها
+## 📓 سرفصلها
 
 لیست سرفصلها به تدریج تکمیل می شود
 
@@ -24,7 +24,7 @@ This is my personal notebook for learning the **R programming language**. As I e
 - تعریف متغیرها و انواع داده‌ها (Variables and Data Types)
 - عملیات‌های ریاضی پایه (Basic Mathematical Operations)
 - استفاده از توابع اصلی (Using Core Functions)
-- 
+
 - ### کار با پکیج‌ها
 - نصب و بارگذاری پکیج‌ها با `install.packages()` و `library()`
 - معرفی کوتاه اکوسیستم `tidyverse`
